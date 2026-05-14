@@ -1,18 +1,9 @@
-## Getting Started
+## Nombre:
+                     Christian Villa
+## FECHA:
+                     13/05/2026
+## Descripcion:
+      El dia de  hoy usamos un metodo binario el cual nos  permitia hacer la busqueda de un objeto  la cual para que funcone tuvimos que hacer metodos de arreglos los cual nos permita comparar valores ordenados lo cual nos ayudara a encontrar objetos en una lista este tipo debia de estar ordenado para poder hacer la practica.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![alt text](<assets/Captura de pantalla 2026-05-13 195131.png>)
